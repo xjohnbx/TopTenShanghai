@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>M On The Bund</string>
+		<key>Description</key>
+		<string>M on the Bund holds a privileged position on Shanghai’s historic waterfront, overlooking the bustling street, the river and the lights of Pudong from the top floor of the 1930s Art Deco Nissin Shipping Building.</string>
+		<key>Image_Cell</key>
+		<string>MonTheBund.jpg</string>
+		<key>Image</key>
+		<string>MonTheBund.jpg</string>
+		<key>Address</key>
+		<string>20 Guangdong Rd, WaiTan, Huangpu Qu, Shanghai Shi, China, 200000</string>
+		<key>Website</key>
+		<string>http://www.m-restaurantgroup.com/mbund</string>
+		<key>Phone</key>
+		<string>+86-21-6350-9988</string>
+		<key>Hours</key>
+		<string>11:30am-2:30pm  6:00-10:30pm</string>
+		<key>Latitude</key>
+		<string>31.234453</string>
+		<key>Longitude</key>
+		<string>121.49056</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>La Creperie </string>
+		<key>Description</key>
+		<string>With crêpes and galettes as the mainstay on the menu, we also plate up many other traditional Brittany delicacies such as oysters, mussels, scallops… If that illustrates us Bretons’ devotion to traditions, then our unbridled adventurer alter-ego is driving us regularly innovating menus to tempt discerning palates. Seeing its reputation build over the course of nearly one decade, La Crêperie has made its first mark on Shanghai’s bustling dining scene and has developed in several other big cities in the region since then.</string>
+		<key>Image_Cell</key>
+		<string>laCrep.jpg</string>
+		<key>Image</key>
+		<string>laCrep.jpg</string>
+		<key>Address</key>
+		<string>1 Taojiang Rd, Xuhui Qu, Shanghai Shi, China</string>
+		<key>Website</key>
+		<string>http://lacreperie.com.cn/en/</string>
+		<key>Phone</key>
+		<string>+86-21-5465-9055</string>
+		<key>Hours</key>
+		<string>11:00am-11:00pm</string>
+		<key>Latitude</key>
+		<string>31.208783</string>
+		<key>Longitude</key>
+		<string>121.451462</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Pistolera</string>
+		<key>Description</key>
+		<string>Pistolera was put together with the idea of bringing real authentic Mexican Food to Shanghai. There are a lot of other “Mexican” restaurants in Shanghai that offer modified and simplified versions of Mexican food.</string>
+		<key>Image_Cell</key>
+		<string>pistolera.jpg</string>
+		<key>Image</key>
+		<string>pistolera.jpg</string>
+		<key>Address</key>
+		<string>No. 838-2 Hengshan Rd., Xuhui, Shanghai, China</string>
+		<key>Website</key>
+		<string>http://www.pistolera.cn</string>
+		<key>Phone</key>
+		<string>+86-21-5461-0619</string>
+		<key>Hours</key>
+		<string>11:00am-1:00am</string>
+		<key>Latitude</key>
+		<string>31.197239</string>
+		<key>Longitude</key>
+		<string>121.440962</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Blue Frog</string>
+		<key>Description</key>
+		<string>Blue frog is one of the fast growing western casual dining restaurant chains operating in China. We combine the professionalism of a big city eatery with the relaxed atmosphere of a local neighborhood joint. Our venues attract a cosmopolitan crowd that comes to blue frog for the top-notch service and great food and drinks. We’re a casual, relaxed kind of place, but we take our food and drink seriously. From brunch to dinner, blue frog serves the classics of Western cuisine, with strong North American flavors and influences.</string>
+		<key>Image_Cell</key>
+		<string>bFrog.jpg</string>
+		<key>Image</key>
+		<string>bFrog.jpg</string>
+		<key>Address</key>
+		<string>1918 Gong He Xin Road, Shanghai, China</string>
+		<key>Website</key>
+		<string>http://www.bluefrog.com.cn/index.asp</string>
+		<key>Phone</key>
+		<string>+86-21-6631-3920</string>
+		<key>Hours</key>
+		<string>10:00am-1:00am</string>
+		<key>Latitude</key>
+		<string>31.273918</string>
+		<key>Longitude</key>
+		<string>121.452281</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Scena</string>
+		<key>Description</key>
+		<string>In a cozy setting fitted with stylish furniture, artistic décor in rich earth and burgundy tones, dining at Scena promises a pleasurable experience as it continues to serve exquisite authentic Italian cuisine. Large sharing portions will be introduced in the new Scena, in the convivial tradition of an authentic Italian dinner. Scena sits on the hotel’s 52nd floor providing diners with breathtaking views of the city through floor to ceiling glass windows. Old wooden beams, flexible partitions and display shelves allow for separate spaces for diners without depriving them the pleasure of outside views.</string>
+		<key>Image_Cell</key>
+		<string>scena.jpg</string>
+		<key>Image</key>
+		<string>scena.jpg</string>
+		<key>Address</key>
+		<string>8 Century Avenue, Lujiazui, Pudong, Shanghai, 200120 China </string>
+		<key>Website</key>
+		<string>http://www.ritzcarlton.com/en/hotels/china/shanghai-pudong/dining/scena</string>
+		<key>Phone</key>
+		<string>+86-21-2020-1717</string>
+		<key>Hours</key>
+		<string>6:30am-10:30pm</string>
+		<key>Latitude</key>
+		<string>31.236467</string>
+		<key>Longitude</key>
+		<string>121.501224</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jin Xuan</string>
+		<key>Description</key>
+		<string>Located on 53rd floor, Jin Xuan Chinese Restaurant showcases the very best Chinese cuisine and superlative warm service in a spectacular location with its high ‘vaulted’ ceilings and a mezzanine level. This fine dining Chinese Restaurant, designed by Steve Leung from Hong Kong, is the discerned choice for social and business diners alike.</string>
+		<key>Image_Cell</key>
+		<string>jinXuan.jpg</string>
+		<key>Image</key>
+		<string>jinXuan.jpg</string>
+		<key>Address</key>
+		<string>8 Century Avenue, Lujiazui, Pudong, Shanghai, 200120 China </string>
+		<key>Website</key>
+		<string>https://www.ritzcarlton.com/en/hotels/china/shanghai-pudong/dining/jin-xuan</string>
+		<key>Phone</key>
+		<string>+86-21-2020-1717</string>
+		<key>Hours</key>
+		<string>5:30am-10:00pm</string>
+		<key>Latitude</key>
+		<string>31.236467</string>
+		<key>Longitude</key>
+		<string>121.501224</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hakkasan</string>
+		<key>Description</key>
+		<string>Housed in the illustrious Bund 18 building, Hakkasan Shanghai is a stunning example of the brand’s striking design, alluring cuisine and exceptional mixology and sommelier skills, set against Shanghai’s most iconic view.</string>
+		<key>Image_Cell</key>
+		<string>hakkasan.jpg</string>
+		<key>Image</key>
+		<string>hakkasan.jpg</string>
+		<key>Address</key>
+		<string>Bund 18, 5/F 18 Zhongshan Dong Yi Lu, Shanghai 200002</string>
+		<key>Website</key>
+		<string>http://hakkasan.com/locations/hakkasan-shanghai/</string>
+		<key>Phone</key>
+		<string>+86-21-6321-5888</string>
+		<key>Hours</key>
+		<string>5:30am-5:00pm</string>
+		<key>Latitude</key>
+		<string>31.238398</string>
+		<key>Longitude</key>
+		<string>121.489692</string>
+	</dict>
+</array>
+</plist>

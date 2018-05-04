@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Fairmont Peace Hotel</string>
+		<key>Description</key>
+		<string>Fairmont Peace Hotel, situated in Shanghai, China, is a &apos;luxurious Art-Deco masterpiece’, brilliantly reinvented for the 21st century where old fashioned glamour sparkles with a new luster. Situated at the famous Bund promenade and the unrivaled shopping area on Nanjing Road, it is the perfect place to explore Shanghai’s spectacular scenery and vibrant lifestyle.</string>
+		<key>Image_Cell</key>
+		<string>FairmontPeaceHotel.jpg</string>
+		<key>Image</key>
+		<string>FairmontPeaceHotel.jpg</string>
+		<key>Address</key>
+		<string>20 Nanjing Road East, Shanghai 200002, China</string>
+		<key>Website</key>
+		<string>http://www.fairmont.com/peace-hotel-shanghai/?cmpid=google_pce_search-branded_branded-e-revsh&amp;gclid=CjwKCAiA8vPUBRAyEiwA8F1oDOoO8ub9rsKCR8AhDvCJDqPdbwIuJcu6eFh3Avm7IpLhpw-07o91HhoCsiYQAvD_BwE</string>
+		<key>Phone</key>
+		<string>+86-21-6138-6888</string>
+		<key>Stars</key>
+		<string>5 Stars</string>
+		<key>Latitude</key>
+		<string>31.239039</string>
+		<key>Longitude</key>
+		<string>121.489543</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Langham, Shanghai</string>
+		<key>Description</key>
+		<string>Strikingly timeless style in Old Shanghai. Located at the gateway to the “Champs Elysees of the East,” unwind in tranquil sophistication and enjoy exploring the crossroads of where old meets new.</string>
+		<key>Image_Cell</key>
+		<string>langham1l.jpg</string>
+		<key>Image</key>
+		<string>langham1l.jpg</string>
+		<key>Address</key>
+		<string>99 Madang Road, Xintiandi, Shanghai 200021, China</string>
+		<key>Website</key>
+		<string>http://www.langhamhotels.com/en/the-langham/shanghai/</string>
+		<key>Phone</key>
+		<string>+86-21-2330-2288</string>
+		<key>Stars</key>
+		<string>5 Stars</string>
+		<key>Latitude</key>
+		<string>31.221796</string>
+		<key>Longitude</key>
+		<string>121.474297</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Ritz-Carlton Shanghai</string>
+		<key>Description</key>
+		<string>Experience a nostalgic moment in a modern city at The Ritz-Carlton Shanghai, Pudong, a hotel that seamlessly enfolds its Art Deco heritage into a brilliant contemporary design. Located on the upper floors of a stylish 58-floor tower in Lujiazui, in the very heart of Shanghai’s commercial, financial and upscale retail center, this luxury hotel&apos;s stunning views of the Bund and Oriental Pearl Tower is just one of the memorable experiences guests will take away from Shanghai.</string>
+		<key>Image_Cell</key>
+		<string>RitzCarlton.jpg</string>
+		<key>Image</key>
+		<string>RitzCarlton.jpg</string>
+		<key>Address</key>
+		<string>8 Century Avenue, Lujuiazui, Pudong, Shanghai 200120, China</string>
+		<key>Website</key>
+		<string>http://www.ritzcarlton.com/en/hotels/china/shanghai-pudong</string>
+		<key>Phone</key>
+		<string>+86-21-2020-1888</string>
+		<key>Stars</key>
+		<string>5 Stars</string>
+		<key>Latitude</key>
+		<string>31.236467</string>
+		<key>Longitude</key>
+		<string>121.501224</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Waldorf Astoria Shanghai on the Bund</string>
+		<key>Description</key>
+		<string>Enjoy the architectural beauty and unique mix of past and present at Waldorf Astoria Shanghai on the Bund. Hints of the building’s heritage, the famed Shanghai Club, blend with contemporary comforts for a truly unique stay. Find elegant guest rooms and suites, exquisite dining, sophisticated event space and a wealth of activities – all in a prime and picturesque location. Here, you can expect sincere hospitality of the highest standards.</string>
+		<key>Image_Cell</key>
+		<string>WaldorfAstoria.jpg</string>
+		<key>Image</key>
+		<string>WaldorfAstoria.jpg</string>
+		<key>Address</key>
+		<string>No. 2 Zhong Shan Dong Yi Rd Huang Pu district, Shanghai, 200002</string>
+		<key>Website</key>
+		<string>http://waldorfastoria3.hilton.com/en/hotels/china/waldorf-astoria-shanghai-on-the-bund-SHAWAWA/index.html</string>
+		<key>Phone</key>
+		<string>+86-21-6322-9988</string>
+		<key>Stars</key>
+		<string>5 Stars</string>
+		<key>Latitude</key>
+		<string>31.233438</string>
+		<key>Longitude</key>
+		<string>121.489849</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Grand Hyatt Shanghai</string>
+		<key>Description</key>
+		<string>View the history of the Bund while experiencing the future of Lujiazui. Be part of China’s booming present as you enjoy the amazing sights and delights of Shanghai. Explore the landmark Grand Hyatt Shanghai with breathtaking views, unparalleled service and endless possibilities at the iconic Jin Mao Tower.</string>
+		<key>Image_Cell</key>
+		<string>HyattShanghai.jpg</string>
+		<key>Image</key>
+		<string>HyattShanghai.jpg</string>
+		<key>Address</key>
+		<string>Jin Mao Tower, 88 Century avenue, Pudong</string>
+		<key>Website</key>
+		<string>https://shanghai.grand.hyatt.com/en/hotel/home.html</string>
+		<key>Phone</key>
+		<string>+86-21-5049-1234</string>
+		<key>Stars</key>
+		<string>5 Stars</string>
+		<key>Latitude</key>
+		<string>31.235344</string>
+		<key>Longitude</key>
+		<string>121.50578</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Grand Kempinski Hotel Shanghai</string>
+		<key>Description</key>
+		<string>Overlooking Shanghai’s Lujiazui Financial District, you are treated to views of the stunning urban skyline in our Superior City View Room. Comfortable, stylish, and spacious, these 43 square meters rooms are some of the largest of this type in all of Shanghai.</string>
+		<key>Image_Cell</key>
+		<string>kempinski.jpg</string>
+		<key>Image</key>
+		<string>kempinski.jpg</string>
+		<key>Address</key>
+		<string>Lujiazui Ring Road 1288, 200120</string>
+		<key>Website</key>
+		<string>https://www.kempinski.com/en/shanghai/grand-kempinski-hotel-shanghai/</string>
+		<key>Phone</key>
+		<string>+86-21-3867-8888</string>
+		<key>Stars</key>
+		<string>5 Stars</string>
+		<key>Latitude</key>
+		<string>31.242511</string>
+		<key>Longitude</key>
+		<string>121.504142</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Hyatt On The Bund</string>
+		<key>Description</key>
+		<string>Tea Room is a European-style tea salon with a sunny alfresco area – The Garden, serving snacks, delicate afternoon tea and happy hour deals. Relax in comfortable lounge chairs as you enjoy Chinese and international tea blends, selected wine or beer. Home-made French pastries, macaroons and chocolates are also available from the retail counter.</string>
+		<key>Image_Cell</key>
+		<string>HyattontheBund.jpg</string>
+		<key>Image</key>
+		<string>HyattontheBund.jpg</string>
+		<key>Address</key>
+		<string>199 HuangPu Road, Shanghai, 200080</string>
+		<key>Website</key>
+		<string>http://www.hyattonthebundsh.com/en/</string>
+		<key>Phone</key>
+		<string>+86-21-6393-1234</string>
+		<key>Stars</key>
+		<string>5 Stars</string>
+		<key>Latitude</key>
+		<string>31.245349</string>
+		<key>Longitude</key>
+		<string>121.493066</string>
+	</dict>
+</array>
+</plist>

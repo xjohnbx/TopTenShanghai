@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Shanghai Museum</string>
+		<key>Description</key>
+		<string>The Shanghai Museum is a museum of ancient Chinese art, situated on the People&apos;s Square in the Huangpu District of Shanghai, China. Rebuilt at its current location in 1996, it is considered one of China&apos;s first world-class modern museums.</string>
+		<key>Image_Cell</key>
+		<string>SMuseum.jpg</string>
+		<key>Image</key>
+		<string>SMuseum.jpg</string>
+		<key>Address</key>
+		<string>201 Renmin Ave, RenMin GuangChang, Huangpu Qu, China, 200000</string>
+		<key>Website</key>
+		<string>http://www.shanghaimuseum.net/museum/frontend/</string>
+		<key>Phone</key>
+		<string>+86-21-6372-3500</string>
+		<key>Hours</key>
+		<string>9:00am - 5:00pm (closed on Mondays)</string>
+		<key>Latitude</key>
+		<string>31.228331</string>
+		<key>Longitude</key>
+		<string>121.475528</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Shanghai World Financial Center Observatory </string>
+		<key>Description</key>
+		<string>A giant window in the sky, with a commanding view of Shanghai and its future. Soaring 474 meters above the ground, the 100th floor observation deck provides a spectacular view of downtown Shanghai and the Huang Pu River below. And from the observation bridge on the 97th floor, visitors will feel as if they are floating in midair. The 94th floor of the observatory offers a breathtaking backdrop for exhibitions and events.</string>
+		<key>Image_Cell</key>
+		<string>SWFCObservatory.jpg</string>
+		<key>Image</key>
+		<string>SWFCObservatory.jpg</string>
+		<key>Address</key>
+		<string>100 Century Ave, LuJiaZui, Pudong Xinqu, Shanghai Shi, China, 200000</string>
+		<key>Website</key>
+		<string>http://www.swfc-shanghai.com/?l=en</string>
+		<key>Phone</key>
+		<string>+86-021-6877-7878</string>
+		<key>Hours</key>
+		<string>8:00am - 11:00pm (No Admission after 10:00pm)</string>
+		<key>Latitude</key>
+		<string>31.234564</string>
+		<key>Longitude</key>
+		<string>121.507439</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>The Bund</string>
+		<key>Description</key>
+		<string>The area along the river faces the modern skyscrapers of Lujiazui in the Pudong District. The Bund usually refers to the buildings and wharves on this section of the road, as well as some adjacent areas. It is one of the most famous tourist destinations in Shanghai. </string>
+		<key>Image_Cell</key>
+		<string>theBund.jpg</string>
+		<key>Image</key>
+		<string>theBund.jpg</string>
+		<key>Address</key>
+		<string>Zhongshan East 1st Rd, WaiTan, Huangpu Qu, Shanghai Shi, China, 200000</string>
+		<key>Website</key>
+		<string>https://en.wikipedia.org/wiki/The_Bund</string>
+		<key>Phone</key>
+		<string>N/A</string>
+		<key>Hours</key>
+		<string>N/A</string>
+		<key>Latitude</key>
+		<string>31.240261</string>
+		<key>Longitude</key>
+		<string>121.490577</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Oriental Pearl Tower</string>
+		<key>Description</key>
+		<string>The Oriental Pearl Radio &amp; TV Tower is a TV tower in Shanghai. Its location at the tip of Lujiazui in the Pudong New Area by the side of Huangpu River, opposite The Bund, makes it a distinct landmark in the area.</string>
+		<key>Image_Cell</key>
+		<string>orientalPearl.jpg</string>
+		<key>Image</key>
+		<string>orientalPearl.jpg</string>
+		<key>Address</key>
+		<string>1 Century Ave, LuJiaZui, Pudong Xinqu, Shanghai Shi, China, 200000</string>
+		<key>Website</key>
+		<string>http://www.orientalpearltower.com/</string>
+		<key>Phone</key>
+		<string>+86-21-5879-1888</string>
+		<key>Hours</key>
+		<string>8:00am-9:30pm</string>
+		<key>Latitude</key>
+		<string>31.239689</string>
+		<key>Longitude</key>
+		<string>121.499755</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Yu Garden</string>
+		<key>Description</key>
+		<string>Yu Garden or Yuyuan Garden is an extensive Chinese garden located beside the City God Temple in the northeast of the Old City of Shanghai, China.</string>
+		<key>Image_Cell</key>
+		<string>yuGarden.jpg</string>
+		<key>Image</key>
+		<string>yuGarden.jpg</string>
+		<key>Address</key>
+		<string>218 Anren St, Huangpu Qu, Shanghai Shi, China, 200000</string>
+		<key>Website</key>
+		<string>http://www.smartshanghai.com/venue/1978/yu_garden_shanghai</string>
+		<key>Phone</key>
+		<string>+86-21-6326-0830</string>
+		<key>Hours</key>
+		<string>8:30am-5:30pm</string>
+		<key>Latitude</key>
+		<string>31.227235</string>
+		<key>Longitude</key>
+		<string>121.492094</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Jade Buddha Temple</string>
+		<key>Description</key>
+		<string>The Jade Buddha Temple is a Buddhist temple in Shanghai, China. As with many modern Chinese Buddhist temples, the current temple draws from both the Pure Land and Chan traditions of Mahayana Buddhism.</string>
+		<key>Image_Cell</key>
+		<string>jadeBuddha.jpg</string>
+		<key>Image</key>
+		<string>jadeBuddha.jpg</string>
+		<key>Address</key>
+		<string>170 Anyuan Rd, Jing&apos;an, China, 200060</string>
+		<key>Website</key>
+		<string>http://www.yufotemple.com/</string>
+		<key>Phone</key>
+		<string>+86-21-6266-3668</string>
+		<key>Hours</key>
+		<string>8:00am-4:30pm</string>
+		<key>Latitude</key>
+		<string>31.241346</string>
+		<key>Longitude</key>
+		<string>121.445121</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Shanghai Ocean Aquarium </string>
+		<key>Description</key>
+		<string>The Shanghai Ocean Aquarium is a public aquarium located in Shanghai, China. Designed by Advanced Aquarium Technologies, the aquarium includes a 168-meter tunnel that takes visitors through a coastal, open ocean, a kelp cave, shark cove, and a coral reef, and is one of the longest such tunnels in the world. </string>
+		<key>Image_Cell</key>
+		<string>ShanghaiOcean.jpg</string>
+		<key>Image</key>
+		<string>ShanghaiOcean.jpg</string>
+		<key>Address</key>
+		<string>1388 Lujiazui Ring Rd, LuJiaZui, Pudong Xinqu, Shanghai Shi, China, 200000</string>
+		<key>Website</key>
+		<string>http://www.sh-soa.com/zh/html/index.aspx</string>
+		<key>Phone</key>
+		<string>+86-21-5877-9988</string>
+		<key>Hours</key>
+		<string>9:00am-6:00pm</string>
+		<key>Latitude</key>
+		<string>31.240751</string>
+		<key>Longitude</key>
+		<string>121.501861</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>China Art Musuem</string>
+		<key>Description</key>
+		<string>The China Art Museum, also called the China Art Palace, is a museum of modern Chinese art located in Pudong, Shanghai, China. The museum is housed in the former China Pavilion of Expo 2010. It is one of the largest art museums in Asia.</string>
+		<key>Image_Cell</key>
+		<string>chinaArtMuseum.jpg</string>
+		<key>Image</key>
+		<string>chinaArtMuseum.jpg</string>
+		<key>Address</key>
+		<string>205 Shangnan Rd, Pudong Xinqu, Shanghai Shi, China, 200126</string>
+		<key>Website</key>
+		<string>https://en.wikipedia.org/wiki/Shanghai_Art_Museum</string>
+		<key>Phone</key>
+		<string>+86-21-2020-2010
++86 21 2020 2010
+</string>
+		<key>Hours</key>
+		<string>9:00am-5:00pm</string>
+		<key>Latitude</key>
+		<string>31.230540</string>
+		<key>Longitude</key>
+		<string>121.471059</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Power Station of Art</string>
+		<key>Description</key>
+		<string>The Power Station of Art is a contemporary art museum in Shanghai, China. Housed in a former power station, it is China&apos;s first state run contemporary art museum.</string>
+		<key>Image_Cell</key>
+		<string>powerArt.jpg</string>
+		<key>Image</key>
+		<string>powerArt.jpg</string>
+		<key>Address</key>
+		<string>200 Hua Yuan Gang Lu, Huangpu Qu, Shanghai Shi, China, 200231</string>
+		<key>Website</key>
+		<string>http://www.powerstationofart.com/cn/</string>
+		<key>Phone</key>
+		<string>+86-21-3110-8550</string>
+		<key>Hours</key>
+		<string>11:00am-7:00pm</string>
+		<key>Latitude</key>
+		<string>31.201028</string>
+		<key>Longitude</key>
+		<string>121.498316</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Happy Valley Shanghai</string>
+		<key>Description</key>
+		<string>Happy Valley Shanghai is an amusement park in Shanghai, China. The park is located in Songjiang District, approximately 40 kilometers from downtown Shanghai. It covers an area of 863,500 square metres.</string>
+		<key>Image_Cell</key>
+		<string>happyValey.jpg</string>
+		<key>Image</key>
+		<string>happyValey.jpg</string>
+		<key>Address</key>
+		<string>888 Linhu Rd, Songjiang Qu, Shanghai Shi, China</string>
+		<key>Website</key>
+		<string>http://sh.happyvalley.cn/</string>
+		<key>Phone</key>
+		<string>+86-21-3355-2222</string>
+		<key>Hours</key>
+		<string>9:30am-7:00pm</string>
+		<key>Latitude</key>
+		<string>31.096234</string>
+		<key>Longitude</key>
+		<string>121.215725</string>
+	</dict>
+</array>
+</plist>
